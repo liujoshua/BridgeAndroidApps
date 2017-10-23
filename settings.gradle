@@ -1,7 +1,7 @@
 include ':mPower', ':skin', ':backbone', ':researchstack-sdk', ':android-sdk', ':CRF'
 project(':mPower').projectDir = new File('mPower-Android/app')
-project(':skin').projectDir = new File('BridgeAndroidSDK/ResearchStack/skin')
-project(':backbone').projectDir = new File('BridgeAndroidSDK/ResearchStack/backbone')
+project(':skin').projectDir = new File('ResearchStack/skin')
+project(':backbone').projectDir = new File('ResearchStack/backbone')
 project(':researchstack-sdk').projectDir = new File('BridgeAndroidSDK/researchstack-sdk')
 project(':android-sdk').projectDir = new File('BridgeAndroidSDK/android-sdk')
 project(':CRF').projectDir = new File('CardiorespiratoryFitness-Android/app')

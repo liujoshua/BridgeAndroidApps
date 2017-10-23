@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BridgeAppsAndroid.iml" filepath="$PROJECT_DIR$/BridgeAppsAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BridgeAndroidApps.iml" filepath="$PROJECT_DIR$/BridgeAndroidApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/CardiorespiratoryFitness-Android/app/CRF.iml" filepath="$PROJECT_DIR$/CardiorespiratoryFitness-Android/app/CRF.iml" />
       <module fileurl="file://$PROJECT_DIR$/BridgeAndroidSDK/android-sdk/android-sdk.iml" filepath="$PROJECT_DIR$/BridgeAndroidSDK/android-sdk/android-sdk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BridgeAndroidSDK/ResearchStack/backbone/backbone.iml" filepath="$PROJECT_DIR$/BridgeAndroidSDK/ResearchStack/backbone/backbone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResearchStack/backbone/backbone.iml" filepath="$PROJECT_DIR$/ResearchStack/backbone/backbone.iml" />
       <module fileurl="file://$PROJECT_DIR$/mPower-Android/app/mPower.iml" filepath="$PROJECT_DIR$/mPower-Android/app/mPower.iml" />
       <module fileurl="file://$PROJECT_DIR$/BridgeAndroidSDK/researchstack-sdk/researchstack-sdk.iml" filepath="$PROJECT_DIR$/BridgeAndroidSDK/researchstack-sdk/researchstack-sdk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BridgeAndroidSDK/ResearchStack/skin/skin.iml" filepath="$PROJECT_DIR$/BridgeAndroidSDK/ResearchStack/skin/skin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResearchStack/skin/skin.iml" filepath="$PROJECT_DIR$/ResearchStack/skin/skin.iml" />
     </modules>
   </component>
 </project>
