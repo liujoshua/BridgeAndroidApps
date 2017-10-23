@@ -1,0 +1,9 @@
+[submodule "mPower-Android"]
+	path = mPower-Android
+	url = git@github.com:Sage-Bionetworks/mPower-Android.git
+[submodule "CardiorespiratoryFitness-Android"]
+	path = CardiorespiratoryFitness-Android
+	url = git@github.com:Sage-Bionetworks/CardiorespiratoryFitness-Android.git
+[submodule "BridgeAndroidSDK"]
+	path = BridgeAndroidSDK
+	url = git@github.com:Sage-Bionetworks/BridgeAndroidSDK.git
