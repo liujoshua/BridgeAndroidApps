@@ -8,7 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/BridgeAndroidSDK/ResearchStack/backbone" />
+            <option value="$PROJECT_DIR$/BridgeAndroidSDK/ResearchStack/skin" />
+            <option value="$PROJECT_DIR$/BridgeAndroidSDK/android-sdk" />
+            <option value="$PROJECT_DIR$/BridgeAndroidSDK/researchstack-sdk" />
+            <option value="$PROJECT_DIR$/CardiorespiratoryFitness-Android/app" />
+            <option value="$PROJECT_DIR$/mPower-Android/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
