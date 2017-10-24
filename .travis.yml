@@ -13,3 +13,6 @@ android:
     # CRF
     - build-tools-25.0.2
     - android-25
+
+script:
+    - ./gradlew build
