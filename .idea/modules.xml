@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BloodPressureApp-Android/app/BP.iml" filepath="$PROJECT_DIR$/BloodPressureApp-Android/app/BP.iml" />
       <module fileurl="file://$PROJECT_DIR$/BridgeAndroidApps.iml" filepath="$PROJECT_DIR$/BridgeAndroidApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/CardiorespiratoryFitness-Android/app/CRF.iml" filepath="$PROJECT_DIR$/CardiorespiratoryFitness-Android/app/CRF.iml" />
       <module fileurl="file://$PROJECT_DIR$/ResearchSuite-Android/app/RSuiteDemo.iml" filepath="$PROJECT_DIR$/ResearchSuite-Android/app/RSuiteDemo.iml" />

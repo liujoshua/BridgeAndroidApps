@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BloodPressureApp-Android/app" />
             <option value="$PROJECT_DIR$/BridgeAndroidSDK/android-sdk" />
             <option value="$PROJECT_DIR$/BridgeAndroidSDK/researchstack-sdk" />
             <option value="$PROJECT_DIR$/CardiorespiratoryFitness-Android/app" />

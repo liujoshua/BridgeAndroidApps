@@ -1,4 +1,4 @@
-include ':mPower', ':backbone', ':researchstack-sdk', ':android-sdk', ':CRF', ':RSuiteDemo', ':api', ':sdk'
+include ':mPower', ':backbone', ':researchstack-sdk', ':android-sdk', ':CRF', ':RSuiteDemo', ':api', ':sdk', ':BP'
 project(':mPower').projectDir = new File('mPower-Android/app')
 project(':backbone').projectDir = new File('ResearchStack/backbone')
 project(':researchstack-sdk').projectDir = new File('BridgeAndroidSDK/researchstack-sdk')
@@ -7,3 +7,4 @@ project(':CRF').projectDir = new File('CardiorespiratoryFitness-Android/app')
 project(':RSuiteDemo').projectDir = new File('ResearchSuite-Android/app')
 project(':api').projectDir = new File('ResearchSuite-Android/api')
 project(':sdk').projectDir = new File('ResearchSuite-Android/sdk')
+project(':BP').projectDir = new File('BloodPressureApp-Android/app')
