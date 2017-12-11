@@ -13,3 +13,6 @@
 [submodule "ResearchSuite-Android"]
 	path = ResearchSuite-Android
 	url = git@github.com:Sage-Bionetworks/ResearchSuite-Android.git
+[submodule "BloodPressureApp-Android"]
+	path = BloodPressureApp-Android
+	url = git@github.com:Sage-Bionetworks/BloodPressureApp-Android.git
